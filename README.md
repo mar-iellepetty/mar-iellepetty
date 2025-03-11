@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mar-iellepetty
 - 👀 I’m interested in ...business
-- 🌱 I’m currently learning ...Data science stuff
-- 💞️ I’m looking to collaborate on ...idk data science stuff
+- 🌱 I’m currently learning ...UX/UI, webdevelopment, app development, and backend
+- 💞️ I’m looking to collaborate on ...any projects!
 - 📫 How to reach me ...mariellepetty2@gmail.com
 - 😄 Pronouns: ...she/her
